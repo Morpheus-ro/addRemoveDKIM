@@ -8,7 +8,7 @@ What do you like to do?
 2) remove website from DKIM
 3) exit
 
-Insert domaine to add: 
+Insert domain to add: 
 
 example.com
 
